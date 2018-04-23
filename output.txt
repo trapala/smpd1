@@ -1,0 +1,45 @@
+$optimum
+[1] 0.03
+
+$valueFunctions
+$valueFunctions$Matryca
+  [,1] [,2]     [,3]    [,4]
+x   43   49 50.00000 55.0000
+y    0    0  0.13125  0.2625
+
+$valueFunctions$JasnoscEkranu
+  [,1] [,2] [,3] [,4] [,5]      [,6]
+x  250  275  300  350  450 500.00000
+y    0    0    0    0    0   0.10125
+
+$valueFunctions$CzasReakcjiMatrycy
+  [,1] [,2] [,3]    [,4]   [,5]   [,6]
+x    4    5    6 7.00000 8.0000 9.0000
+y    0    0    0 0.11125 0.2225 0.2225
+
+$valueFunctions$Cena
+  [,1] [,2]       [,3]       [,4]       [,5]       [,6]       [,7]       [,8]
+x 3999 2999 2599.00000 2299.00000 1849.00000 1499.00000 1399.00000 1190.00000
+y    0    0    0.16125    0.16125    0.16125    0.41375    0.41375    0.41375
+
+
+$overallValues
+    Hitachi50HB5W62   SamsungUE55MU6172          LG43LJ594V          LG55UJ6517 Philips43PFT4112/12 
+            0.54500             0.53500             0.41375             0.42375             0.41375 
+  SamsungUE50MU6172   SamsungUE43MU6172          LG49UJ634V   SamsungUE55MU7042    Sony KD-55XE7005 
+            0.40375             0.38375             0.38375             0.37375             0.36375 
+
+$ranks
+    Hitachi50HB5W62   SamsungUE55MU6172          LG43LJ594V          LG55UJ6517 Philips43PFT4112/12 
+                  1                   2                   4                   3                   4 
+  SamsungUE50MU6172   SamsungUE43MU6172          LG49UJ634V   SamsungUE55MU7042    Sony KD-55XE7005 
+                  6                   7                   7                   9                  10 
+
+$errors
+    Hitachi50HB5W62   SamsungUE55MU6172          LG43LJ594V          LG55UJ6517 Philips43PFT4112/12 
+               0.00                0.00                0.02                0.00                0.00 
+  SamsungUE50MU6172   SamsungUE43MU6172          LG49UJ634V   SamsungUE55MU7042    Sony KD-55XE7005 
+               0.00                0.01                0.00                0.00                0.00 
+
+$Kendall
+[1] 0.9320589
